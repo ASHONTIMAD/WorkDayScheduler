@@ -20,5 +20,5 @@
 - JQuery
 - Moment.js
 
-#Below is a picture of the application:
+# Below is a picture of the application:
 <img width="904" alt="Screen Shot 2022-08-21 at 8 37 47 PM" src="https://user-images.githubusercontent.com/106761213/185822349-9eea7669-6c3d-4716-9f55-14b4834aef56.png">
