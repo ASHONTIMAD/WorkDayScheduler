@@ -1,7 +1,9 @@
 # <Work Day Scheduler>
 
-# Work Day Scheduler;
-# This is a day planer that allows the user to save things to the scheduler and clear them another day. This was made on the basis of the following criteria:
+# Work Day Scheduler:
+# This is a day planer that allows the user to save things to the scheduler and clear them another day. 
+  
+  This was made on the basis of the following criteria:
 - A daily planner to create a schedule.
 - Current day is displayed at the top of the calendar.
 - Presented with time blocks for standard business hours.
